@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema name="simple-schema" version="1.5">
+  <types>
+    <fieldType name="string" class="solr.StrField"/>
+  </types>
+  <fields>
+    <field name="simple-field" type="string"/>
+  </fields>
+</schema>
